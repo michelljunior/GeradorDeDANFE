@@ -1,0 +1,16 @@
+{
+  "name": "gerardanfe",
+  "version": "1.0.0",
+  "description": "Gerador de danfe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michel Anderson",
+  "license": "ISC",
+  "dependencies": {
+    "bwip-js": "^4.2.0",
+    "handlebars": "^4.7.8",
+    "puppeteer": "^22.0.0"
+  }
+}
